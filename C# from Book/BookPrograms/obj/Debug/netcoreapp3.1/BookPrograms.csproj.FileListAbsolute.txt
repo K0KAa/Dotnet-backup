@@ -1,0 +1,13 @@
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.csprojAssemblyReference.cache
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.AssemblyInfoInputs.cache
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.AssemblyInfo.cs
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.csproj.CoreCompileInputs.cache
+D:\git\C# from Book\BookPrograms\bin\Debug\netcoreapp3.1\BookPrograms.exe
+D:\git\C# from Book\BookPrograms\bin\Debug\netcoreapp3.1\BookPrograms.deps.json
+D:\git\C# from Book\BookPrograms\bin\Debug\netcoreapp3.1\BookPrograms.runtimeconfig.json
+D:\git\C# from Book\BookPrograms\bin\Debug\netcoreapp3.1\BookPrograms.runtimeconfig.dev.json
+D:\git\C# from Book\BookPrograms\bin\Debug\netcoreapp3.1\BookPrograms.dll
+D:\git\C# from Book\BookPrograms\bin\Debug\netcoreapp3.1\BookPrograms.pdb
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.dll
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.pdb
+D:\git\C# from Book\BookPrograms\obj\Debug\netcoreapp3.1\BookPrograms.genruntimeconfig.cache
